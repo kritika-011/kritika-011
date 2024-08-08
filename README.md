@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritika-011&label=Profile%20views&color=0e75b6&style=flat" alt="kritika-011" /> </p>
 
-- 🔭 I’m currently exploring on **NLP and CNN**
+🔭 Currently exploring NLP and CNN
 
-- 🌱 I’m currently learning **Natural Language Processing and CNN**
+🌱 Learning Natural Language Processing and CNN
 
-- 👯 I’m looking to collaborate on **upcoming NLP projects**
+💬 Ask me about Machine Learning, Data Science
 
-- 💬 Ask me about **Machine Learning, Data-Science**
+📫 Reach me at kritisubedi011@gmail.com
 
-- 📫 How to reach me **kritisubedi011@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
