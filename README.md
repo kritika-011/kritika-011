@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritika-011&label=Profile%20views&color=0e75b6&style=flat" alt="kritika-011" /> </p>
 
-🔭 Currently exploring NLP and CNN
 
-🌱 Learning Natural Language Processing and CNN
-
-💬 Ask me about Machine Learning, Data Science
 
 📫 Reach me at kritisubedi011@gmail.com
 
